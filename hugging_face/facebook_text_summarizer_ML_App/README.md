@@ -1,21 +1,9 @@
-
-
----
-title: Summarizer Chatbot
-emoji: 👁
-colorFrom: blue
-colorTo: blue
-sdk: gradio
-sdk_version: 4.13.0
-app_file: app.py
-pinned: false
----
 # Summarizer Chat Bot
 
-Model used: facebook/bart-large-cnn 
+Model: facebook/bart-large-cnn 
 
 -->[Documentation](https://huggingface.co/facebook/bart-large-cnn)
-
+-->[Link to Model - Hugging face spaces](https://huggingface.co/spaces/sajadahmadi/summarizer_chatbot)
 **Model description**
 
 BART is a transformer encoder-encoder (seq2seq) model with a bidirectional (BERT-like) encoder and an autoregressive (GPT-like) decoder. BART is pre-trained by (1) corrupting text with an arbitrary noising function, and (2) learning a model to reconstruct the original text.
