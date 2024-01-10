@@ -5,6 +5,7 @@ Model: facebook/bart-large-cnn
 -->[Documentation](https://huggingface.co/facebook/bart-large-cnn)
 
 -->[Link to Model @ Hugging face spaces](https://huggingface.co/spaces/sajadahmadi/summarizer_chatbot)
+
 **Model description**
 
 BART is a transformer encoder-encoder (seq2seq) model with a bidirectional (BERT-like) encoder and an autoregressive (GPT-like) decoder. BART is pre-trained by (1) corrupting text with an arbitrary noising function, and (2) learning a model to reconstruct the original text.
