@@ -10,6 +10,7 @@ BART is a transformer encoder-encoder (seq2seq) model with a bidirectional (BERT
 
 BART is particularly effective when fine-tuned for text generation (e.g. summarization, translation) but also works well for comprehension tasks (e.g. text classification, question answering). This particular checkpoint has been fine-tuned on CNN Daily Mail, a large collection of text-summary pairs.
 
+
 ---
 title: Summarizer Chatbot
 emoji: 👁
@@ -20,5 +21,6 @@ sdk_version: 4.13.0
 app_file: app.py
 pinned: false
 ---
+
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
